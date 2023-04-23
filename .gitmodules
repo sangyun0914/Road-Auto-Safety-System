@@ -7,3 +7,6 @@
 [submodule "Hyundai_mobis_RoadKeeper_Backend"]
 	path = Hyundai_mobis_RoadKeeper_Backend
 	url = https://github.com/Sunwoo0110/Hyundai_mobis_RoadKeeper_Backend.git
+[submodule "road-hazard-detection"]
+	path = road-hazard-detection
+	url = git@github.com:2023-Hyundai-mobis-Hackathon/road-hazard-detection.git
